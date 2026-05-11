@@ -5,6 +5,7 @@ The system uses **FSM-based task orchestration** to decouple workflow logic, com
 Job scraping is only one component of the system. The architecture is designed for full‑pipeline automation, including job monitoring, application strategy optimization, and interview preparation.
 
 A preliminary demo is available here:  
-<img width="1877" height="939" alt="image" src="https://github.com/user-attachments/assets/993356f3-68db-4153-813c-e6890209201e" />
+<img width="1877" height="938" alt="image" src="https://github.com/user-attachments/assets/90f2fa28-0399-44a2-86c5-2fefd0335255" />
+
 
 [Demo Link](http://13.217.45.222:10001/)
