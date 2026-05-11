@@ -1,8 +1,8 @@
-This project implements a fully automated job‑search agent that aggregates job information from SEEK, LinkedIn, and selected social media posts. It provides cross‑platform job discovery, structured information extraction, and automated resume submission.
+This project is a lightweight, personal job‑search automation assistant that integrates LLMs with traditional automation workflows. It aggregates job posts from SEEK, LinkedIn, and selected social platforms, performs fast job analysis, and assists with semi‑ or fully‑automated job applications.
 
-The system uses **FSM-based task orchestration** to decouple workflow logic, combined with a clean separation of data and code. This design enables rapid extension of new data sources and automation modules. Powered by modern LLMs, the system supports **job semantic analysis, resume–job matching, automated application workflows, and multi-source information fusion**.
+The system is built with multi‑worker pipelines, state‑machine–driven task orchestration, and a clean separation of data and logic. This architecture makes it easy to extend new data sources, add automation modules, and scale parallel job‑processing tasks.
 
-Job scraping is only one component of the system. The architecture is designed for full‑pipeline automation, including job monitoring, application strategy optimization, and interview preparation.
+Beyond job scraping, the system supports job semantic analysis, resume–job matching, automated application flows, and continuous job monitoring, forming a practical end‑to‑end automation tool for job search and application assistance.
 
 A preliminary demo is available here:  
 <img width="1841" height="899" alt="image" src="https://github.com/user-attachments/assets/df8427cb-d225-4c72-9c8d-334598dfdd93" />
